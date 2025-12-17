@@ -2,5 +2,8 @@
   "name": "brahminbazaar-backend",
   "version": "1.0.0",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.16.0"
+  }
 }
