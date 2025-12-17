@@ -1,5 +1,5 @@
 {
-  "scripts": {
-    "start": "node Server.js"
-  }
+  "name": "brahminbazaar-backend",
+  "version": "1.0.0",
+  "private": true
 }
